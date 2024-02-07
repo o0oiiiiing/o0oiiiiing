@@ -1,4 +1,4 @@
-## <div align="center"> 👉 Dahyeon Park 👈 </div>
+## <div align="center"> ✨ Dahyeon Park ✨ </div>
 
 <br>
 
