@@ -1,16 +1,20 @@
-### Hi there 👋
+## <center>👉 Dahyeon Park 👈</center>
 
-<!--
-**o0oiiiiing/o0oiiiiing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+#### sites
+---
+<img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=notion&logoColor=black">
+<br><br>
+#### tools
+---
+<img src="https://img.shields.io/badge/Oracle_SQL_Developer-white?style=flat-square&logo=oracle&logoColor=F80000">
+<img src="https://img.shields.io/badge/Eclipse_IDE-white?style=flat-square&logo=eclipse&logoColor=2C2255">
+<br><br>
+#### language
+---
+<img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=&logoColor=4E7896">
+<br><br>
+#### status
+---
+[![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=o0oiiiiing&theme=graywhite)](https://github.com/o0oiiiiing/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0oiiiiing&theme=graywhite)](https://github.com/o0oiiiiing/github-readme-stats)
