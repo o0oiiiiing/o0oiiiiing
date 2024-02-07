@@ -12,7 +12,7 @@
 
 #### language
 ---
-<img src="https://img.shields.io/badge/Java-white?style=flat-square&logo=&logoColor=4E7896">
+<img src="https://img.shields.io/badge/Java-white?style=flat-square"> <img src="https://img.shields.io/badge/SQL-white?style=flat-square">
 
 #### status
 ---
