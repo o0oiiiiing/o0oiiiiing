@@ -10,6 +10,8 @@
 ---
 #### tools
 <img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=flat-square&logo=VisualStudioCode&logoColor=007ACC"> <img src="https://img.shields.io/badge/Eclipse_IDE-white?style=flat-square&logo=eclipse&logoColor=2C2255"> <img src="https://img.shields.io/badge/Oracle_SQL_Developer-white?style=flat-square&logo=oracle&logoColor=F80000">
+#### language
+<img src="https://img.shields.io/badge/Java_Script-white?style=flat-square&logo=javascript&logoColor=#7DF1E">
 
 ### status
 ---
