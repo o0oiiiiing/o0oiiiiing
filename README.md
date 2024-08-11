@@ -2,10 +2,6 @@
 
 <br>
 
-### sites
----
-<img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=notion&logoColor=black">
-
 ### stack
 ---
 #### tools
