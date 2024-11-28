@@ -15,5 +15,11 @@
 <br>
 
 ## status
-[![Anurag's GitHub status](https://github-readme-stats.vercel.app/api?username=o0oiiiiing&theme=graywhite)](https://github.com/o0oiiiiing/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=o0oiiiiing&theme=graywhite&layout=compact)](https://github.com/o0oiiiiing/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/o0oiiiiing/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=o0oiiiiing&theme=graywhite" alt="Anurag's GitHub stats" />
+  </a>
+  <a href="https://github.com/o0oiiiiing/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0oiiiiing&theme=graywhite&layout=compact" alt="Top Langs" />
+  </a>
+</div>
