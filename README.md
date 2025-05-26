@@ -21,9 +21,9 @@
 ## status
 <div align="center">
   <a href="https://github.com/o0oiiiiing/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=o0oiiiiing&theme=graywhite" alt="Anurag's GitHub stats" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=o0oiiiiing&theme=graywhite" alt="o0oiiiiing's GitHub stats" />
   </a>
   <a href="https://github.com/o0oiiiiing/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0oiiiiing&theme=graywhite&layout=compact" alt="Top Langs" />
+    <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=o0oiiiiing&theme=graywhite&layout=compact" alt="Top Langs" />
   </a>
 </div>
