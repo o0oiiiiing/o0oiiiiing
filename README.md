@@ -6,7 +6,7 @@
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py)](https://skillicons.dev)
 #### Frameworks / Libraries
-[![My Skills](https://skillicons.dev/icons?i=django,react,nextjs,emotion,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,emotion,jquery,django)](https://skillicons.dev)
 <br>
 <img src="https://img.shields.io/badge/MobX-white?style=flat-square&logo=mobx&logoColor=FF9955"> <img src="https://img.shields.io/badge/Axios-white?style=flat-square&logo=axios&logoColor=5A29E4"> <img src="https://img.shields.io/badge/Router-white?style=flat-square&logo=reactrouter&logoColor=CA4245">
 #### Databases
