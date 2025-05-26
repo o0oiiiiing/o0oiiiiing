@@ -7,13 +7,11 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py&theme=light)](https://skillicons.dev)
 #### Frameworks / Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,emotion,jquery,django&theme=light)](https://skillicons.dev)
-<br>
 <img src="https://img.shields.io/badge/MobX-white?style=flat-square&logo=mobx&logoColor=FF9955"> <img src="https://img.shields.io/badge/Axios-white?style=flat-square&logo=axios&logoColor=5A29E4"> <img src="https://img.shields.io/badge/Router-white?style=flat-square&logo=reactrouter&logoColor=CA4245">
 #### Databases
 <img src="https://img.shields.io/badge/oracleDB-white?style=flat-square&logo=oracle&logoColor=F80000"> <img src="https://img.shields.io/badge/mariaDB-white?style=flat-square&logo=mariadb&logoColor=003545">
 #### Tools & Platforms
 [![My Skills](https://skillicons.dev/icons?i=vscode,spring,eclipse,postman,notion,figma&theme=light)](https://skillicons.dev)
-<br>
 <img src="https://img.shields.io/badge/FileZilla-white?style=flat-square&logo=filezilla&logoColor=BF0000"> <img src="https://img.shields.io/badge/EditPlus-white?style=flat-square&logo=editplus&logoColor="> 
 #### Version Control & Collaboration
 [![My Skills](https://skillicons.dev/icons?i=git,github,discord&theme=light)](https://skillicons.dev)
